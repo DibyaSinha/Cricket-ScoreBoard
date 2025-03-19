@@ -1,0 +1,8 @@
+Match ID: 1
+Match Between: IND vs AFG
+Toss Winner: IND, Decision: 1
+Overs: 1
+Innings 1 Score: 16/0 in 6 balls
+Innings 2 Score: 17/0 in 4 balls
+Winner: IND
+
